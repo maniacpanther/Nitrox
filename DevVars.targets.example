@@ -3,5 +3,6 @@
   <PropertyGroup>
     <!--Enter the location of your Subnautica installation here:-->
     <SubnauticaDir>C:\Program Files\Epic Games\Subnautica</SubnauticaDir>
+    <SubnauticaDir>G:\Games\Subnautica</SubnauticaDir>
   </PropertyGroup>
 </Project>
